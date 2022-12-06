@@ -1,3 +1,6 @@
 D:\Payment_Gateway\Stock-Trading\StockTradingGraph.ConsoleApp\obj\Debug\StockTradingGraph.ConsoleApp.csproj.AssemblyReference.cache
 D:\Payment_Gateway\Stock-Trading\StockTradingGraph.ConsoleApp\obj\Debug\StockTradingGraph.ConsoleApp.csproj.SuggestedBindingRedirects.cache
 D:\Payment_Gateway\Stock-Trading\StockTradingGraph.ConsoleApp\obj\Debug\StockTradingGraph.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.ConsoleApp\obj\Debug\StockTradingGraph.ConsoleApp.csproj.AssemblyReference.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.ConsoleApp\obj\Debug\StockTradingGraph.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.ConsoleApp\obj\Debug\StockTradingGraph.ConsoleApp.csproj.CoreCompileInputs.cache

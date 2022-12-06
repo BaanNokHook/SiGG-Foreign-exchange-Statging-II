@@ -13,3 +13,18 @@ D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WpfApp\obj\Debug\App.g.cs
 D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WpfApp\obj\Debug\StockTradingGraph_MarkupCompile.cache
 D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WpfApp\obj\Debug\StockTradingGraph_MarkupCompile.lref
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\StockTradingGraph.WpfApp.csproj.AssemblyReference.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\StockTradingGraph.WpfApp.csproj.SuggestedBindingRedirects.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\Controls\InfoControl.baml
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\Controls\DataGridControl.baml
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\FilesLoaderWindow.baml
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\Controls\MyChartControl.baml
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\Controls\InfoControl.g.cs
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\Controls\DataGridControl.g.cs
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\FilesLoaderWindow.g.cs
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\MainWindow.g.cs
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\Controls\MyChartControl.g.cs
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\App.g.cs
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\StockTradingGraph_MarkupCompile.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WpfApp\obj\Debug\StockTradingGraph_MarkupCompile.lref
