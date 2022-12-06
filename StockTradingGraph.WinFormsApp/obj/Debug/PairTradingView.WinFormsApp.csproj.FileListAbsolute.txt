@@ -1,0 +1,129 @@
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Forms.Downloader.resources
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Forms.MainWindow.resources
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.Properties.Resources.resources
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.GenerateResource.Cache
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csprojResolveAssemblyReference.cache
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.WinFormsApp.exe.config
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.WinFormsApp.exe
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.WinFormsApp.pdb
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.exe
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.pdb
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.WinFormsApp.exe.config
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.exe
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.pdb
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.WinFormsApp.exe
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.WinFormsApp.pdb
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Forms.Downloader.resources
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Forms.MainWindow.resources
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.Properties.Resources.resources
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.GenerateResource.Cache
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Domain.dll
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Domain.pdb
+C:\Users\Denis_Lebedev\Documents\MyProjects\pair-trading-view-master\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.Forms.CsvFiles.resources
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.Forms.CsvFiles.resources
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Domain.dll
+C:\GitHub\StockTradingGraph\Source\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Domain.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Controls.NumericBox.resources
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.AppStartWindow.resources
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Downloader.resources
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.MainWindow.resources
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Properties.Resources.resources
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.GenerateResource.Cache
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe.config
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\Statistics.dll
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\Statistics.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.exe
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.pdb
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe.config
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.exe
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.pdb
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csprojResolveAssemblyReference.cache
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Controls.NumericBox.resources
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.AppStartWindow.resources
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Downloader.resources
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.MainWindow.resources
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Properties.Resources.resources
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.GenerateResource.Cache
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.pdb
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\bin\Debug\Statistics.dll
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.WinFormsApp\bin\Debug\Statistics.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csprojAssemblyReference.cache
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CoreCompileInputs.cache
+C:\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CopyComplete
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe.config
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.pdb
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\bin\Debug\Statistics.pdb
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csprojAssemblyReference.cache
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Controls.NumericBox.resources
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.AppStartWindow.resources
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Downloader.resources
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.MainWindow.resources
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Properties.Resources.resources
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.GenerateResource.cache
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CopyComplete
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.exe
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.pdb
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe.config
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.pdb
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.dll
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\Statistics.dll
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\Statistics.pdb
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csprojAssemblyReference.cache
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Controls.NumericBox.resources
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.AppStartWindow.resources
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Downloader.resources
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.MainWindow.resources
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Properties.Resources.resources
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.GenerateResource.cache
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CopyComplete
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.exe
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.pdb
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe.config
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.pdb
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\Statistics.pdb
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csprojAssemblyReference.cache
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Controls.NumericBox.resources
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.AppStartWindow.resources
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Downloader.resources
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.MainWindow.resources
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Properties.Resources.resources
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.GenerateResource.cache
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CopyComplete
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.exe
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.pdb
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe.config
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.pdb
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.dll
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.AssemblyReference.cache
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Controls.NumericBox.resources
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.AppStartWindow.resources
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Downloader.resources
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.MainWindow.resources
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Properties.Resources.resources
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.GenerateResource.cache
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CoreCompileInputs.cache
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CopyComplete
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.exe
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.pdb

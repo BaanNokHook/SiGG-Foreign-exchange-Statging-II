@@ -1,0 +1,2 @@
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.AssemblyReference.cache
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.AssemblyReference.cache
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Controls.NumericBox.resources
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.AppStartWindow.resources
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Downloader.resources
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.MainWindow.resources
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Properties.Resources.resources
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.GenerateResource.cache
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CoreCompileInputs.cache
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe.config
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.pdb
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.dll
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CopyComplete
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.exe
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.pdb

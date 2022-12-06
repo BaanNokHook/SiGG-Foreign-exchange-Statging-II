@@ -1,0 +1,71 @@
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.dll
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\Statistics.dll
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\Statistics.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.dll
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.pdb
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.dll
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.pdb
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.UnitTests\bin\Debug\Statistics.dll
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.UnitTests\bin\Debug\Statistics.pdb
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csprojResolveAssemblyReference.cache
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.dll
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.pdb
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csprojAssemblyReference.cache
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CoreCompileInputs.cache
+C:\GitHub\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CopyComplete
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.dll
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.pdb
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\bin\Debug\Statistics.pdb
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csprojAssemblyReference.cache
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CopyComplete
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.dll
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.pdb
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.dll
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.pdb
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.dll
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\Statistics.dll
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\Statistics.pdb
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csprojAssemblyReference.cache
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CopyComplete
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.dll
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.pdb
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.dll
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.pdb
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\Statistics.pdb
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csprojAssemblyReference.cache
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CoreCompileInputs.cache
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CopyComplete
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.dll
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.pdb
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.dll
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.pdb
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.dll
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.AssemblyReference.cache
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CoreCompileInputs.cache
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CopyComplete
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.dll
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.pdb

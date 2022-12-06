@@ -1,0 +1,57 @@
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csprojResolveAssemblyReference.cache
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.dll
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.pdb
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.Infrastructure\bin\Debug\Statistics.dll
+C:\GitHub\pair-trading-view — копия\StockTradingGraph.Infrastructure\bin\Debug\Statistics.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\Statistics.dll
+C:\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\Statistics.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.dll
+C:\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.pdb
+C:\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csprojAssemblyReference.cache
+C:\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CopyComplete
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.Infrastructure\bin\Debug\Statistics.pdb
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csprojAssemblyReference.cache
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CopyComplete
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.dll
+C:\Users\dvleb\Desktop\pair-trading-view-master\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.dll
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\Statistics.dll
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\Statistics.pdb
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csprojAssemblyReference.cache
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CopyComplete
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.dll
+D:\Programming\GitHub\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.pdb
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.dll
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.pdb
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\Statistics.pdb
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csprojAssemblyReference.cache
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CopyComplete
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.dll
+C:\Stuff\Programming\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Practice\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.dll
+D:\Practice\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Practice\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\Statistics.pdb
+D:\Practice\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.AssemblyReference.cache
+D:\Practice\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Practice\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CopyComplete
+D:\Practice\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.dll
+D:\Practice\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.dll
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.Infrastructure\bin\Debug\Statistics.pdb
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.AssemblyReference.cache
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CopyComplete
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.dll
+D:\Payment_Gateway\pair-trading-view\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.pdb

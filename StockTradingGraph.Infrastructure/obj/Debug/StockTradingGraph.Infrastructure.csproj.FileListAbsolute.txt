@@ -1,0 +1,8 @@
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.dll
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.Infrastructure\bin\Debug\StockTradingGraph.Infrastructure.pdb
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.Infrastructure\bin\Debug\Statistics.pdb
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.AssemblyReference.cache
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.csproj.CopyComplete
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.dll
+D:\Payment_Gateway\Stock-Trading\StockTradingGraph.Infrastructure\obj\Debug\StockTradingGraph.Infrastructure.pdb
