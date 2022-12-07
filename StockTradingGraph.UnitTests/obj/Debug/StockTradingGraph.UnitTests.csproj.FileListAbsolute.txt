@@ -1,4 +1,12 @@
 D:\Payment_Gateway\Stock-Trading\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.AssemblyReference.cache
 D:\Payment_Gateway\Stock-Trading\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CoreCompileInputs.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.dll
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.UnitTests.pdb
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.dll
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.UnitTests\bin\Debug\StockTradingGraph.Infrastructure.pdb
 D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.AssemblyReference.cache
 D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CoreCompileInputs.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.csproj.CopyComplete
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.dll
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.UnitTests\obj\Debug\StockTradingGraph.UnitTests.pdb

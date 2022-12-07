@@ -15,3 +15,20 @@ D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\bin\Debug\StockTr
 D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CopyComplete
 D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.exe
 D:\Payment_Gateway\Stock-Trading\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.pdb
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe.config
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.exe
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.pdb
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.dll
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\bin\Debug\StockTradingGraph.Infrastructure.pdb
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.AssemblyReference.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Controls.NumericBox.resources
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.AppStartWindow.resources
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Downloader.resources
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.MainWindow.resources
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.Properties.Resources.resources
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.GenerateResource.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CoreCompileInputs.cache
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.WinFormsApp.csproj.CopyComplete
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.exe
+D:\LaCasaDePapel\SiGG\SiGG-Foreign exchange-Statging-II\StockTradingGraph.WinFormsApp\obj\Debug\StockTradingGraph.pdb

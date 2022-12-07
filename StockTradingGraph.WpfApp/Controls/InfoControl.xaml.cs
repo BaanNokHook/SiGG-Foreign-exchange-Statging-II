@@ -25,6 +25,8 @@ namespace StockTradingGraph.WpfApp
 {
     public partial class InfoControl : UserControl
     {
+        internal object balance;
+
         public InfoControl()
         {
             InitializeComponent();
